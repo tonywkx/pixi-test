@@ -1,0 +1,16 @@
+body{
+    padding-top: 2%;
+    height: 70%;
+    width: 82%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aliceblue;
+}
+
+canvas{
+    width: 100%;
+    height: 100%;
+}

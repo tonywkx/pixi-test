@@ -1,4 +1,4 @@
-const app = new PIXI.Application({height: 800, width: 1000, background: '#1099bb' });
+const app = new PIXI.Application({height: 600, width: 800, background: '#1099bb' });
 document.body.appendChild(app.view);
 
 const container = new PIXI.Container();
